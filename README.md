@@ -1,4 +1,6 @@
 # 8oCFG7wRAydqWFCG
+
+## The problem
 As a logistics and delivery company we are needing to find ways to meet and address challenges to our customers, especially during the COVID-19 pandemic. We are trying to make our customers happy and predict what will do it. The dataset provided has 126 records of customer feedback. We are conductiing a feedback survey with 6 metrics to predict what will make our customers happy, so we can choose to focus on those areas. 
 
 The 6 categories are:
